@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class program3 {
 	public static void main(String []args) {
 		Scanner in = new Scanner(System.in);
+		Scanner in2 = new Scanner(System.in);
 		System.out.println("Enter a number:");
 		boolean isPrime = true;
 		int num = in.nextInt();
